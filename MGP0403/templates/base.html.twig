@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}Welcome!{% endblock %}</title>
+        {# Run `composer require symfony/webpack-encore-bundle`
+           and uncomment the following Encore helpers to start using Symfony UX #}
+        {% block stylesheets %}
+            {#{{ encore_entry_link_tags('app') }}#}
+        {% endblock %}
+
+        {% block javascripts %}
+            {#{{ encore_entry_script_tags('app') }}#}
+        {% endblock %}
+        <nav>
+            <ul>
+                <a href="/">Home</a>
+                <a href="about">About</a>
+                <a href="contact">Contact Us</a>
+            </ul>
+        </nav>
+    </head>
+    <body>
+        {% block body %}{% endblock %}
+
+    </body>
+<footer>
+    Major Group Project - 2021 Ryan,Conor & Olayiwola
+</footer>
+<style>
+
+    h1{
+        text-align: center;
+        font-family:Perpetua;
+    }
+    footer{
+        background-color: dimgray;
+        color:white;
+    }
+
+    nav{
+        background-color: dimgray;
+    }
+
+    p{
+        padding-left: 50px;
+        padding-right: 20px;
+    }
+</style>
+
+</html>
