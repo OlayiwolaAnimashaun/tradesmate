@@ -6,9 +6,10 @@ A Symfony web application that will link tradesmen and their clients for DIY job
 * [Symfony](https://symfony.com/) - Open-source PHP Framework with MVC architecture
 * [Twig](https://twig.symfony.com/) - Template engine for PHP
 * [MySQL](https://www.mysql.com/) - Relational Database Management System
+* [PhpStorm](https://www.jetbrains.com/phpstorm/) - IDE for PHP development
 
 ## Thesis
-[Thesis](https://drive.google.com/file/d/14VZft6K4jdFNyZLFEKZ2gSBtlaZ8dMYe/view) completed in fulfilment of group project module
+[Thesis](https://drive.google.com/file/d/14VZft6K4jdFNyZLFEKZ2gSBtlaZ8dMYe/view) completed in fulfillment of group project module
 
 ## Acknowledgements
 **Dr. Matt Smith**: Project Supervisor - Technological University Dublin
