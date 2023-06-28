@@ -12,7 +12,7 @@ A Symfony web application that will link tradesmen and their clients for DIY job
 [Thesis](https://drive.google.com/file/d/14VZft6K4jdFNyZLFEKZ2gSBtlaZ8dMYe/view) completed in fulfillment of group project module
 
 ## Acknowledgements
-**Dr. Matt Smith**: Project Supervisor - Technological University Dublin
+**Dr. Matt Smith:** Project Supervisor - Technological University Dublin
 
 ## Demonstration
 ![Register](https://user-images.githubusercontent.com/58079895/249180823-bc42b7b5-78c8-4290-8c50-69917b5b02bf.png)
